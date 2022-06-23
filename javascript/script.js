@@ -6,7 +6,7 @@ const fondo = new Image()
 fondo.src = "https://orig15.deviantart.net/8bed/f/2015/058/a/8/smb1_background_by_steamerthesteamtrain-d8jq7ea.png"
 
 const personajeMario = new Image()
-personajeMario.src = "../img/mario.webp"
+personajeMario.src = "./../img/mario.webp"
 
 const personajeMarioIzq = new Image()
 personajeMarioIzq.src = "../img/marioIzq.png"
