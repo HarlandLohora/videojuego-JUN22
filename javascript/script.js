@@ -9,19 +9,19 @@ const personajeMario = new Image()
 personajeMario.src = "img/mario.webp"
 
 const personajeMarioIzq = new Image()
-personajeMarioIzq.src = "../img/marioIzq.png"
+personajeMarioIzq.src = "img/marioIzq.png"
 
 const personajeSalta = new Image()
-personajeSalta.src = "../img/marioL.png"
+personajeSalta.src = "img/marioL.png"
 
 const personajeTartaruga = new Image()
-personajeTartaruga.src = "../img/tartaruga.webp"
+personajeTartaruga.src = "img/tartaruga.webp"
 
 const personajeGoomba = new Image()
-personajeGoomba.src = "../img/goomba.png"
+personajeGoomba.src = "img/goomba.png"
 
 const balaImagen = new Image()
-balaImagen.src = "../img/balota.png"
+balaImagen.src = "img/balota.png"
 
 const mario = new Mario(10, 450, ctx, personajeMario)
 
